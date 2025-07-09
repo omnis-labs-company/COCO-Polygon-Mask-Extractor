@@ -1,7 +1,7 @@
 # COCO Polygon Mask Extractor (C++/OpenCV/RapidJSON/Multithread)
 Extract each object instance from COCO-format polygon annotations as transparent PNG mask images — 
 
-![Concept](https://github.com/omnis-labs-company/COCO-Polygon-Mask-Extractor)
+![Concept](https://github.com/omnis-labs-company/COCO-Polygon-Mask-Extractor/blob/main/image_to_mask.jpg)
 
 **fast & parallel!**
 
